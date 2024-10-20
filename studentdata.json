@@ -1,40 +1,50 @@
-[{
-  "name": "Malav Mori",
-  "en_no": "236458307013",
-  "sem": "5",
-  "division": "3",
-  "studentgrade": [
-    "Sem1": {
-      "Mathematics": "CD",
-      "CSE": "AB",
-      "ES": "BC",
-      "FEE": "BB",
-      "FC": "AB",
-      "BCP": "AB"
-    },
-    "Sem2": {
-      "Physics": "BB",
-      "SWPD": "AB",
-      "EM": "CC",
-      "ECWP": "AB",
-      "BOOP": "BB",
-      "BDE": "BC"
-    },
-    "Sem3": {
-      "Internship": "CC",
-      "SLP": "BB",
-      "RDBMS": "BB",
-      "BOS": "BC",
-      "DSA": "BC",
-      "RWPD": "AA"
-    },
-    "Sem4": {
-      "IPDC": "AA",
-      "AOOP": "BB",
-      "ISE": "BC",
-      "CN": "BC",
-      "IWD": "AB",
-      "MPT": "AA"
-    }
-  ]
-}]
+[
+  {
+    "name": "Malav Mori",
+    "en_no": "236458307013",
+    "sem": "5",
+    "division": "3",
+    "studentgrade": [
+      {
+        "Sem1": {
+          "Mathematics": "CD",
+          "CSE": "AB",
+          "ES": "BC",
+          "FEE": "BB",
+          "FC": "AB",
+          "BCP": "AB"
+        }
+      },
+      {
+        "Sem2": {
+          "Physics": "BB",
+          "SWPD": "AB",
+          "EM": "CC",
+          "ECWP": "AB",
+          "BOOP": "BB",
+          "BDE": "BC"
+        }
+      },
+      {
+        "Sem3": {
+          "Internship": "CC",
+          "SLP": "BB",
+          "RDBMS": "BB",
+          "BOS": "BC",
+          "DSA": "BC",
+          "RWPD": "AA"
+        }
+      },
+      {
+        "Sem4": {
+          "IPDC": "AA",
+          "AOOP": "BB",
+          "ISE": "BC",
+          "CN": "BC",
+          "IWD": "AB",
+          "MPT": "AA"
+        }
+      }
+    ]
+  }
+]
