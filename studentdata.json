@@ -3,7 +3,7 @@
   "en_no": "236458307013",
   "sem": "5",
   "division": "3",
-  "studentgrade": {
+  "studentgrade": [
     "Sem1": {
       "Mathematics": "CD",
       "CSE": "AB",
@@ -36,5 +36,5 @@
       "IWD": "AB",
       "MPT": "AA"
     }
-  }
+  ]
 }]
